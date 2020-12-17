@@ -78,8 +78,6 @@ elif inp == "P":
 # Only works with an android phone...
 # need to install ipweb cam for this application..
 # get the url by opening the ip web cam and paste it here..
-#
-#
 # elif inp == "M"
 #     url = ""
 #     while True:

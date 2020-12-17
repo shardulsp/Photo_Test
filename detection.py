@@ -1,5 +1,7 @@
 import cv2
 import numpy as np
+import argparse
+
 
 #cv2.CascadeClassifier.load('haarcascade_frontalface_default.xml')
 faceCascade = cv2.CascadeClassifier('cascades\src\data\haarcascade_frontalface_alt2.xml')
